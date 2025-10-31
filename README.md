@@ -4,10 +4,10 @@
 
 *   **앱 이름**: 어르신 돌봄 대시보드 (Elder Care Dashboard)
 *   **핵심 목표**: 혼자 계신 어르신의 건강과 안전을 통합적으로 관리하고, 위험 상황을 감지하여 보호자에게 알리는 것을 목표로 하는 웹 기반 모니터링 플랫폼입니다.
-*   
+*   (사진은 현재 노인이 없어, 물병을 노인이라 가정하고 어플리케이션을 실행했을때 모습입니다.)
 <img width="1836" height="967" alt="Image" src="https://github.com/user-attachments/assets/6bef9bb7-403f-4f91-bcc6-9c9008da8a35" />
 
-
+<img width="1850" height="958" alt="Image" src="https://github.com/user-attachments/assets/a2f1057c-7c05-4021-bb29-fd833cff151e" />
 ---
 
 ## 🚀 2. 시작하기 (Getting Started)

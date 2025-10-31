@@ -1,0 +1,79 @@
+[
+  {
+    "sessionId": "ac490798-769d-497b-aa73-5b620b100878",
+    "messageId": 0,
+    "type": "user",
+    "message": "현재 경로에있는 elser-care-app-new라는 폴더를 분석해서, 프론트엔드와 백엔드를 어떻게, 어떤 프로그램으로 구현했는지, 그리고 작동원리가 뭔지 분석해서 설명해줘.",
+    "timestamp": "2025-10-20T04:13:17.387Z"
+  },
+  {
+    "sessionId": "ac490798-769d-497b-aa73-5b620b100878",
+    "messageId": 1,
+    "type": "user",
+    "message": "앞으로 이 앱에 더 추가 될 수 있는 기능이나, 해결해야할 보안점을 분석해서 설명해줘.",
+    "timestamp": "2025-10-20T04:19:11.033Z"
+  },
+  {
+    "sessionId": "48ce9f2b-120c-4d8c-b27d-941db52a51e2",
+    "messageId": 0,
+    "type": "user",
+    "message": "지금 경로에 있는 파일들을 깃헙에 업로드 할려는데, 혹시 올리면 안되는 중요한 정보, API등이 있는지 확인해줘.",
+    "timestamp": "2025-10-31T20:47:54.011Z"
+  },
+  {
+    "sessionId": "48ce9f2b-120c-4d8c-b27d-941db52a51e2",
+    "messageId": 1,
+    "type": "user",
+    "message": "해당 google account에는 누구 계정이 있는거야? 설마 내꺼야?",
+    "timestamp": "2025-10-31T20:53:03.183Z"
+  },
+  {
+    "sessionId": "48ce9f2b-120c-4d8c-b27d-941db52a51e2",
+    "messageId": 2,
+    "type": "user",
+    "message": "너가알려준 중요한 정보들을 지우면 이 elder care앱을 사용하는데 지장이 없어?",
+    "timestamp": "2025-10-31T20:54:28.516Z"
+  },
+  {
+    "sessionId": "48ce9f2b-120c-4d8c-b27d-941db52a51e2",
+    "messageId": 3,
+    "type": "user",
+    "message": "그럼 중요한 정보들을 다 삭제해줘.",
+    "timestamp": "2025-10-31T20:55:24.403Z"
+  },
+  {
+    "sessionId": "48ce9f2b-120c-4d8c-b27d-941db52a51e2",
+    "messageId": 4,
+    "type": "user",
+    "message": "일단 먼저 파일들을 다시 확인해서 올리면 안되는 중요한 정보가 있는지 확인해줘.",
+    "timestamp": "2025-10-31T20:56:32.421Z"
+  },
+  {
+    "sessionId": "48ce9f2b-120c-4d8c-b27d-941db52a51e2",
+    "messageId": 5,
+    "type": "user",
+    "message": "ㅇㅇ",
+    "timestamp": "2025-10-31T20:56:57.406Z"
+  },
+  {
+    "sessionId": "48ce9f2b-120c-4d8c-b27d-941db52a51e2",
+    "messageId": 6,
+    "type": "user",
+    "message": "그럼이제 이 파일들을 깃헙에 올렸을때, 지금 로그인 되있는 구글계정이 털릴일은 없다는 거지?",
+    "timestamp": "2025-10-31T20:58:57.230Z"
+  },
+  {
+    "sessionId": "48ce9f2b-120c-4d8c-b27d-941db52a51e2",
+    "messageId": 7,
+    "type": "user",
+    "message": "근데 installation.id파일은 뭐야",
+    "timestamp": "2025-10-31T20:59:37.759Z"
+  },
+  {
+    "sessionId": "48ce9f2b-120c-4d8c-b27d-941db52a51e2",
+    "messageId": 8,
+    "type": "user",
+    "message": "그럼삭제해.",
+    "timestamp": "2025-10-31T21:00:10.054Z"
+  }
+]
